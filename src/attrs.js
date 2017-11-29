@@ -17,6 +17,7 @@ export const html = [
   'cols',
   'colspan',
   'coords',
+  'crossorigin',
   'datetime',
   'default',
   'dir',
